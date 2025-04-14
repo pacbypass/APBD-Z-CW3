@@ -38,7 +38,6 @@ artifacts/
 .idea/
 *.sln.iml
 .idea/
-*.DotSettings.user
 
 # NuGet Packages
 *.nupkg
